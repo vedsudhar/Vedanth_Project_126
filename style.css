@@ -1,0 +1,12 @@
+.heading_div
+{
+    font-size: 30px;
+    color: beige;
+}
+
+canvas 
+{
+    animation-name: example;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
